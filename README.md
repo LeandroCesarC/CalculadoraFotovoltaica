@@ -34,7 +34,8 @@ pip install -r requirements.txt
 
 1. Execute a aplicação:
 
-```python -m streamlit run solar_calculator.py
+```
+python -m streamlit run solar_calculator.py
 ```
 
 2. A aplicação abrirá automaticamente no seu navegador
